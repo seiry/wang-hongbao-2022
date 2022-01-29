@@ -1,0 +1,33 @@
+body{
+	margin:0;
+	padding:0;
+	
+	
+}
+.beijing{
+	height:960px;
+	width:540px;
+	background-image:url(../img/1h-beijing.jpg);
+	background-size:cover;
+	
+}
+.beijing .yihdt{
+	margin-top:0px;
+	
+}
+.beijing .hu{
+	margin-top:278px;
+	margin-left:40px;	
+}
+.beijing .nian{
+	margin-top:278px;
+	margin-left:0px;
+}
+.beijing .da{
+	margin-top:0px;
+	margin-left:195px;
+}
+.beijing .ji{
+	margin-top:0px;
+	margin-left:0px;
+}

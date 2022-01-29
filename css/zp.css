@@ -1,0 +1,16 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+.beijing{
+	height:960px;
+	width:540px;
+	background:url(../img/zp-bj.jpg);
+	background-size: cover;
+}
+.beijing .zpdt{
+	margin-top:460px;
+	margin-left:60px;
+	
+}

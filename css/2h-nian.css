@@ -1,0 +1,20 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+.beijing{
+	height:960px;
+	width:540px;
+	background:url(../img/2h-nian-bj.jpg);
+	background-size: cover;
+}
+.beijing .sx{
+	margin-top:20px;
+	margin-left:380px;
+}
+.beijing .erhdt1{
+	margin-top:485px;
+	margin-left:162px;
+	
+}

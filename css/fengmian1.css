@@ -1,0 +1,40 @@
+/* 重置样式:取消标签默认存在的样式 */
+/* 通配符:表示所有的HTML标签 
+*{}*/
+body{
+	/* 取消外边距 */
+	margin:0;
+	padding:0;
+	
+}
+
+	/* 外边距margin
+	margen-top(上边距)/margin-right(右边距)/margin-bottom(下边距)/margin-left(左边距) 
+	四个参数-> margin:top right bottom left
+	三个参数-> margin:top right/left bottom
+	当right/left为auto时，水平居中*/
+	
+	/* 背景图片:默认显示在所有内容的下方
+	背景图片的前提条件:书写背景图片的容器必须要有确定的尺寸 
+	background-image:url(../img/图片名)要先出文件夹
+	background-size: cover调整图片大小在容器内
+	background-repeat: no-repeat; background-attachment: fixed*/
+
+	
+	
+	/* 浮动float:float:left(左对齐)/float:right(右对齐) */
+	
+.fengmian{
+	height:960px;
+	width:540px;
+	background-image:url(../img/hongbao.jpg);
+	background-size: cover;
+	
+	
+}
+.fengmian .dongtu{
+	margin-top:301px;
+	margin-right:57px;
+	margin-left:51px;
+	
+}

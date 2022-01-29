@@ -1,0 +1,14 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+.fengmian{
+	height:960px;
+	width:540px;
+	background-image:url(../img/hongbao.jpg);
+	background-size: cover;
+	}
+.fengmian .dongtu{
+	margin-top:295px;
+}

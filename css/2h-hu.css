@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+.beijing{
+	height:960px;
+	width:540px;
+	background:url(../img/2h-hu-bj.jpg);
+	background-size:cover;
+}
+/* .beijing .erhdt3{
+	margin-top:0;
+	margin-left:203px;
+	
+}
+.beijing .erhdt2{
+	margin-top:145px;
+	
+} */
+.beijing .sx{
+	margin-top:20px;
+	margin-left:380px;
+}
+.beijing .erhdt1{
+	margin-left:104px;
+	margin-top:485px;
+	
+}
