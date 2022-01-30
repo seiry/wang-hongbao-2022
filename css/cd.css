@@ -6,15 +6,13 @@ body{
 .beijing{
 	height:960px;
 	width:540px;
-	background:url(../img/2h-nian-bj.jpg);
+	background:url(../img/beijing.jpg);
 	background-size: cover;
 }
 .beijing .sx{
 	margin-top:20px;
 	margin-left:380px;
 }
-.beijing .erhdt1{
-	margin-top:395px;
-	
-	
+.beijing .cd{
+	margin-top:4px;
 }
