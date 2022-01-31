@@ -1,18 +1,17 @@
 body{
 	margin:0;
 	padding:0;
-	
+	background-image:url(../img/beijing.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-attachment: scroll;
 }
-.beijing{
-	height:960px;
-	width:540px;
-	background:url(../img/beijing.jpg);
-	background-size: cover;
-}
+
 .beijing .sx{
-	margin-top:20px;
-	margin-left:380px;
+	margin-top:3%;
+	margin-left:70%;
 }
 .beijing .cd{
-	margin-top:4px;
+	margin-top:1%;
 }

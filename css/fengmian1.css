@@ -5,7 +5,11 @@ body{
 	/* 取消外边距 */
 	margin:0;
 	padding:0;
-	
+	background-image:url(../img/hongbao.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-attachment: scroll;
 }
 
 	/* 外边距margin
@@ -24,17 +28,21 @@ body{
 	
 	/* 浮动float:float:left(左对齐)/float:right(右对齐) */
 	
-.fengmian{
+/* .fengmian{
 	height:960px;
 	width:540px;
 	background-image:url(../img/hongbao.jpg);
 	background-size: cover;
 	
 	
-}
+} */
 .fengmian .dongtu{
-	margin-top:301px;
-	margin-right:57px;
-	margin-left:51px;
+	margin-top: 55.75%;
+	margin-left:9.44%;
 	
+	/* margin-top:301px; */
+/* 	position: relative;
+	top:31.25%;
+	left:9.44%;
+	 */
 }

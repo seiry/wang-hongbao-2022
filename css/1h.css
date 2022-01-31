@@ -1,33 +1,36 @@
 body{
 	margin:0;
 	padding:0;
-	
+	background-image:url(../img/1h-beijing.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-attachment: scroll;
 	
 }
-.beijing{
-	height:960px;
-	width:540px;
-	background-image:url(../img/1h-beijing.jpg);
-	background-size:cover;
+
 	
+}
+div{
+	font-size:0;
 }
 .beijing .yihdt{
 	margin-top:0px;
 	
 }
 .beijing .hu{
-	margin-top:278px;
-	margin-left:40px;	
+	margin-top:52%;
+	margin-left:7.41%;	
 }
 .beijing .nian{
-	margin-top:278px;
-	margin-left:0px;
+	margin-top:52%;
+	margin-left:0;
 }
 .beijing .da{
-	margin-top:0px;
-	margin-left:195px;
+	margin-top:0;
+	margin-left:36.11%;
 }
 .beijing .ji{
-	margin-top:0px;
-	margin-left:0px;
+	margin-top:0;
+	margin-left:0;
 }

@@ -1,16 +1,15 @@
 body{
 	margin:0;
 	padding:0;
-	
+	background-image:url(../img/zp-bj.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-attachment: scroll;
 }
-.beijing{
-	height:960px;
-	width:540px;
-	background:url(../img/zp-bj.jpg);
-	background-size: cover;
-}
+
 .beijing .zpdt{
-	margin-top:460px;
-	margin-left:60px;
+	margin-top:89%;
+	margin-left:12%;
 	
 }

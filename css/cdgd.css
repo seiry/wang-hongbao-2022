@@ -1,20 +1,19 @@
 body{
 	margin:0;
 	padding:0;
-	
+	background-image:url(../img/cdgd-bj.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-attachment: scroll;
 }
-.beijing{
-	height:960px;
-	width:540px;
-	background:url(../img/cdgd-bj.jpg);
-	background-size: cover;
-}
+
 .beijing .cd{
-	margin-top:100px;
-	margin-left:60px;
+	margin-top:19%;
+	margin-left:10.4%;
 	
 }
 .beijing .cdh{
-	margin-top:108px;
-	margin-left:108px;
+	margin-top:19.7%;
+	margin-left:20.18%;
 }
